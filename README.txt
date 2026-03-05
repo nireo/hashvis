@@ -26,7 +26,7 @@ Example generated from the source file:
 |                                                     . o * * =   . .            |
 +--------------------------------------------------------------------------------+
 
-g++ hashvis.cc -o hashvis -std=c++17 -O3
+cc hashvis.c -o hashvis -std=c11 -O3
 
 A hash visualization algorithm (HVA) is a function h_1 which has, as a minimum the following two properties:
 
